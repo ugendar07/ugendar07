@@ -14,7 +14,7 @@ I'm passionate about cryptography and its applications in the fascinating world 
 
  
 ## 💬 Let's Connect
-- Twitter: [https://path-to-twitter-logo.png](https://twitter.com/Ugendar07)
+- [![Twitter](https://path-to-twitter-logo.png)(https://twitter.com/Ugendar07)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kethavath-ugender/)
  
 
