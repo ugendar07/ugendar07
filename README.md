@@ -14,9 +14,11 @@ I'm passionate about cryptography and its applications in the fascinating world 
 
  
 ## 💬 Let's Connect
-- Twitter: [Twitter](https://twitter.com/Ugendar07)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kethavath-ugender/)
- 
+<p align="center">
+ <a href="https://github.com/ugendar07" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/kethavath-ugender/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:ugendar07@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
 ## 📫 How to Reach Me
 - Email: ugendar07@gmail.com
