@@ -1,4 +1,4 @@
-# Hi there, I'm K Ugender👋
+# Hi there, I'm K Ugendar👋
 ## Cryptographer | Blockchain Enthusiast | Codebreaker
 
 I'm passionate about cryptography and its applications in the fascinating world of blockchain technology. My journey involves solving complex cryptographic puzzles, and exploring innovative solutions for securing digital assets.
