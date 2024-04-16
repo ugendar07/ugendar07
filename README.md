@@ -33,14 +33,26 @@ I'm passionate about cryptography and its applications in the fascinating world 
 - Game theory applications in blockchain ecosystems.
 
  
-## 💬 Let's Connect
+## 📫 How to Reach Me
 <p align="left">
 <a href="https://twitter.com/Ugendar07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kethavath-ugender/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
  </p>
+ <a href="https://www.linkedin.com/in/kethavath-ugender/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Ugendar07">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="mailto:ugendar07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://studio.youtube.com/channel/UC6pCBmB5nMeOsY6Wt2kvmOg/">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
 
-## 📫 How to Reach Me
-- Email: ugendar07@gmail.com
+
+ 
 
 ## ⚡ Fun Fact
 Did you know? The term "Blockchain" originated from the way transactions are linked together through cryptographic hashes. Each block in the chain contains a cryptographic hash of the previous block, creating a secure and unalterable sequence. This concept was initially introduced in the whitepaper titled "Bitcoin: A Peer-to-Peer Electronic Cash System" by the pseudonymous Satoshi Nakamoto in 2008.
