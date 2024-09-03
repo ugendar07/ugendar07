@@ -20,6 +20,8 @@ I'm passionate about cryptography and its applications in the fascinating world 
     <img src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="matlab" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" title="Ethereum Blockchain" alt="Ethereum Blockchain" width="40" height="40"/>
   </div>
 </div>
 
