@@ -49,7 +49,7 @@ I'm passionate about cryptography and its applications in the fascinating world 
   <a href="mailto:ugendar07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://studio.youtube.com/channel/UC6pCBmB5nMeOsY6Wt2kvmOg/">
+  <a href="https://youtu.be/6Xi1eirZ7WI/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
 
