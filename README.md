@@ -1,5 +1,5 @@
 # Hi there, I'm K Ugendar 👋  
-## AI Research Scientist | Machine Learning | Deep Learning | LLM & RAG Systems
+## AI Researcher| ML & DL | LLM & RAG Systems | Cryptographer | Blockchain Enthusiast 
 
 I am an AI researcher focused on advancing machine learning systems, large language models, and retrieval-augmented architectures.
 
@@ -107,9 +107,7 @@ I focus not only on improving model accuracy, but also on robustness, scalabilit
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/kethavath-ugender/
-- Twitter: https://twitter.com/Ugendar07
-- Email: ugendar07@gmail.com
+<a href="https://www.linkedin.com/in/kethavath-ugender/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="https://twitter.com/Ugendar07"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a> <a href="mailto:ugendar07@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a> <a href="https://youtu.be/6Xi1eirZ7WI/"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/> </a>
 
 ---
 
