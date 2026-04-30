@@ -24,7 +24,6 @@ My work centers on designing reliable, scalable, and interpretable AI systems th
 
 ### Machine Learning
 - Supervised & Unsupervised Learning
-- Statistical Modeling
 - Feature Engineering
 - Model Generalization & Evaluation
 - Experimental Design
