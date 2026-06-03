@@ -1,123 +1,70 @@
-# Hi there, I'm K Ugendar 👋  
-## AI Researcher| ML & DL | LLM & RAG Systems | Cryptographer | Blockchain Enthusiast 
+# K Ugendar
 
-I am an AI researcher focused on advancing machine learning systems, large language models, and retrieval-augmented architectures.
+**AI/ML Engineer · LLM & RAG Systems · Building production-grade AI that's reliable, not just impressive**
 
-My work centers on designing reliable, scalable, and interpretable AI systems that bridge theoretical foundations with production-grade deployment. With a background in cryptography and blockchain security, I bring a strong mathematical and systems-oriented perspective to AI research.
- 
----
-
-## 🔬 Research Interests
-
-- Large Language Model evaluation and alignment
-- Retrieval-Augmented Generation (RAG) architectures
-- Multi-modal AI systems (Text, Image, Audio, Video)
-- Hallucination detection and response validation
-- Efficient inference and model optimization
-- Distributed AI systems
-- AI safety and robustness
-- Formal reasoning in LLM systems
+`Python` `PyTorch` `HuggingFace` `FastAPI` `Docker`
 
 ---
 
-## 🧠 Technical Expertise
+## About
 
-### Machine Learning
-- Supervised & Unsupervised Learning
-- Feature Engineering
-- Model Generalization & Evaluation
-- Experimental Design
+AI/ML Engineer specializing in LLM systems and RAG architectures — from prototype to production.
 
-### Deep Learning
-- Neural Networks (ANN, CNN, RNN)
-- Transformer Architectures
-- Representation Learning
-- Fine-tuning Pretrained Models (LoRA, QLoRA)
+I design retrieval-augmented pipelines, evaluation frameworks for LLM hallucination reduction, and multi-modal vector systems. My background in cryptography and distributed systems means I build AI that's not just accurate — it's robust, secure, and scalable.
 
-### Large Language Models
-- Prompt Engineering & Prompt Optimization
-- Guardrails & Response Validation
-- Multi-model orchestration
-- Embedding Systems & Semantic Search
-- Evaluation pipelines for LLM outputs
+Currently working on:
+- Enterprise RAG systems with hybrid retrieval (dense + sparse)
+- LLM output validation pipelines to reduce hallucinations
+- Agentic AI architectures for real-world deployment
 
-### Retrieval-Augmented Generation (RAG)
-- Vector databases (ChromaDB,FAISS, Pinecone, Weaviate)
-- Hybrid search (Sparse + Dense retrieval)
-- Chunking strategies & embedding optimization
-- Multi-source data ingestion pipelines
-- End-to-end RAG architecture design
+Open to **AI/ML research** and **senior backend/AI engineering** roles.
 
 ---
 
-## 🛠 Tools & Technologies
+## Core Expertise
 
-<div id="badges" align="center">
-  <div>
-    <!-- Languages -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-    <!-- ML / DL Frameworks -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp;
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="Hugging Face / LLMs" alt="HuggingFace" width="40" height="40"/>&nbsp;
-    <!-- Backend -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-    <!-- Databases -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-    <!-- DevOps / Infra -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+**LLM Systems**
+Prompt engineering, guardrails, multi-model orchestration, evaluation pipelines, fine-tuning (LoRA, QLoRA)
 
-  </div>
-</div>
+**RAG Architectures**
+Hybrid search (dense + sparse), vector databases, chunking strategies, multi-source ingestion, end-to-end pipeline design
 
+**ML & Deep Learning**
+Transformer architectures, representation learning, CNNs/RNNs, model generalization & benchmarking
+
+**Infrastructure**
+Distributed AI systems, efficient inference, production-aware deployment, cryptographic security foundations
 
 ---
 
-## 📊 Research Approach
+## Stack
 
-- Strong emphasis on reproducibility
-- Data-centric model improvement
-- Empirical benchmarking
-- Rigorous evaluation frameworks
-- Production-aware AI system design
-
-I focus not only on improving model accuracy, but also on robustness, scalability, interpretability, and deployment feasibility.
-
----
-
-## 📌 Current Work
-
-- Designing advanced RAG systems for enterprise AI applications  
-- Developing LLM validation frameworks to reduce hallucinations  
-- Building multi-modal vector pipelines  
-- Exploring agentic AI architectures  
+| Layer | Tools |
+|---|---|
+| ML/DL | PyTorch · TensorFlow · Scikit-learn · HuggingFace |
+| LLM & RAG | LangChain · ChromaDB · FAISS · Pinecone · Weaviate |
+| Backend | Python · FastAPI · Django · TypeScript |
+| Databases | PostgreSQL · MongoDB · SQL |
+| DevOps | Docker · Linux · Git |
 
 ---
 
-## 📫 Contact
+## What I'm Building
 
-<a href="https://www.linkedin.com/in/kethavath-ugender/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="https://twitter.com/Ugendar07"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a> <a href="mailto:ugendar07@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a> <a href="https://youtu.be/6Xi1eirZ7WI/"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/> </a>
-
----
-
-## ⚡ Research Philosophy
-
-AI systems should be:
-- Mathematically grounded  
-- Empirically validated  
-- Scalable in production  
-- Secure and robust by design  
-
-From cryptographic protocol research to intelligent AI architectures — my work aims to advance trustworthy, high-performance AI systems.
+- **Enterprise RAG** — hybrid retrieval pipelines with sparse + dense search, optimized for accuracy and latency
+- **LLM Validation** — response validation frameworks that catch hallucinations before they reach production
+- **Multi-modal Pipelines** — vector systems that handle text, image, and audio in unified architectures
+- **Agentic Systems** — autonomous AI agents with tool use, memory, and structured reasoning
 
 ---
 
-*Advancing intelligent systems through research, rigor, and engineering.*
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kethavath-ugender/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ugendar07)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ugendar07@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/6Xi1eirZ7WI/)
+
+---
+
+*Building AI that holds up in production — not just on paper.*
